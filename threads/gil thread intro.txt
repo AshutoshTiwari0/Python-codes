@@ -1,0 +1,17 @@
+GIL-> Global interpreter lock 
+python has gil which makes sure that only a single thread runs at a given time.
+
+
+
+concurrency and parallelism
+
+concurrency-> Two things can happen at same time
+example-> a program is importing a library and also getting an api request at same time
+
+parallelism-> Running at same time
+
+
+diff between asynchronous and threading
+
+asynchronous-> it knows when to switch. like sleep(5ms) so switch to a new task after 5ms 
+threading-> it does not know when to switch it will depend on os scheduler.

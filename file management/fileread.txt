@@ -1,0 +1,4 @@
+hey this is a text file which will be opened using python.
+....
+ a new line added by python codesoon i will start data scinece
+ soon i will start data scinece

@@ -1,0 +1,10 @@
+This is just a sample text file for python to read.
+random gpt generated text
+"In a quiet forest, 
+where sunlight filters through the leaves, 
+a curious squirrel scampers along the branches, 
+collecting acorns for winter. 
+A babbling brook adds its melody to the serene scene, 
+as butterflies waltz in the warm breeze.
+ Nature's canvas paints a tranquil picture,
+ inviting moments of reflection and peace."

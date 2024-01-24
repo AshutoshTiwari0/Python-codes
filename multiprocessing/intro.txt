@@ -1,0 +1,20 @@
+multiprocessing-> here two or more process run together
+
+
+
+diff between threading and multiprocessing
+threading -> one thread works while other is resting they both can not work together
+parallel processsing/multi processsing-> two process work simultaneoulsy beside each other 
+
+
+threading diagram
+
+------            -----------            ----------              thread 1
+        --------               ---------            ----------   thread 2
+
+multi processing diagram
+
+---------------------------- process 1
+---------------------------- process 2
+
+
